@@ -1,0 +1,5 @@
+import random
+
+Random_int = random.randint(80,100)
+
+print(Random_int)
